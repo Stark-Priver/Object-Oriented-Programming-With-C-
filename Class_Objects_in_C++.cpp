@@ -39,10 +39,11 @@ public:
 int main() {
     // Creating an object of Person class
     Person person1("John Doe", 30);
+    Person person2("Priver Doe", 40);
 
     // Displaying initial details
     person1.display();
-
+    person2.display();
     // Modifying details using setters
     person1.setName("Jane Doe");
     person1.setAge(25);
