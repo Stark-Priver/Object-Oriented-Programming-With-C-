@@ -1,0 +1,7 @@
+# ninja log v6
+1	226	1732185364654518681	CMakeFiles/C__.dir/main.cpp.o.ddi	90c8f136ae9be7ee
+226	234	1732185364886523478	CMakeFiles/C__.dir/CXX.dd	69192bc8e11e988e
+234	1167	1732185364886523478	CMakeFiles/C__.dir/main.cpp.o	daca1b0c9b97f350
+226	234	1732185364886523478	/home/priver/Studies/Private/C++/cmake-build-debug/CMakeFiles/C__.dir/CXXModules.json	69192bc8e11e988e
+1168	1402	1732185365822542832	C__	5f15852422475464
+226	234	1732185364886523478	CMakeFiles/C__.dir/main.cpp.o.modmap	69192bc8e11e988e

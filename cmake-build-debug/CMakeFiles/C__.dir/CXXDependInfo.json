@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/priver/Studies/Private/C++/cmake-build-debug",
+	"dir-cur-src" : "/home/priver/Studies/Private/C++",
+	"dir-top-bld" : "/home/priver/Studies/Private/C++/cmake-build-debug",
+	"dir-top-src" : "/home/priver/Studies/Private/C++",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/priver/Studies/Private/C++/cmake-build-debug/CMakeFiles/C__.dir"
+}
