@@ -1,0 +1,7 @@
+# ninja log v6
+1	170	1732186176372784151	CMakeFiles/Object_And_CLasses.dir/main.cpp.o.ddi	3cd7b3dd2b042493
+170	174	1732186176548785627	CMakeFiles/Object_And_CLasses.dir/CXX.dd	a872f87af7751dbb
+170	174	1732186176548785627	/home/priver/Studies/Private/C++/Object And CLasses/cmake-build-debug/CMakeFiles/Object_And_CLasses.dir/CXXModules.json	a872f87af7751dbb
+170	174	1732186176548785627	CMakeFiles/Object_And_CLasses.dir/main.cpp.o.modmap	a872f87af7751dbb
+175	937	1732186176548785627	CMakeFiles/Object_And_CLasses.dir/main.cpp.o	7c516edc59ab7a48
+938	1042	1732186177312792036	Object_And_CLasses	4293f0d3a6b1a945
