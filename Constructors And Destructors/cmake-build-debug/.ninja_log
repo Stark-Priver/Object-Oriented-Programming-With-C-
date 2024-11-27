@@ -1,0 +1,23 @@
+# ninja log v6
+1	105	1732186865709620996	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.ddi	1743f0d8dd26ebc4
+105	109	1732186865817622688	CMakeFiles/Constructors_And_Destructors.dir/CXX.dd	561f9765cf332ed2
+105	109	1732186865817622688	/home/priver/Studies/Private/C++/Constructors And Destructors/cmake-build-debug/CMakeFiles/Constructors_And_Destructors.dir/CXXModules.json	561f9765cf332ed2
+105	109	1732186865817622688	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.modmap	561f9765cf332ed2
+2	114	1732186929162624955	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.ddi	1743f0d8dd26ebc4
+114	118	1732186929274626743	CMakeFiles/Constructors_And_Destructors.dir/CXX.dd	561f9765cf332ed2
+114	118	1732186929274626743	/home/priver/Studies/Private/C++/Constructors And Destructors/cmake-build-debug/CMakeFiles/Constructors_And_Destructors.dir/CXXModules.json	561f9765cf332ed2
+114	118	1732186929274626743	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.modmap	561f9765cf332ed2
+118	850	1732186929278626808	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o	6e826531975db11
+851	948	1732186930014638561	Constructors_And_Destructors	afc27c88008e5358
+3	114	1732186999967766168	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.ddi	1743f0d8dd26ebc4
+114	117	1732187000075767924	CMakeFiles/Constructors_And_Destructors.dir/CXX.dd	561f9765cf332ed2
+114	117	1732187000075767924	/home/priver/Studies/Private/C++/Constructors And Destructors/cmake-build-debug/CMakeFiles/Constructors_And_Destructors.dir/CXXModules.json	561f9765cf332ed2
+114	117	1732187000075767924	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.modmap	561f9765cf332ed2
+117	815	1732187000079767989	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o	6e826531975db11
+815	918	1732187000779779373	Constructors_And_Destructors	afc27c88008e5358
+13	283	1732538936760508101	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.ddi	1743f0d8dd26ebc4
+283	290	1732538937028512930	CMakeFiles/Constructors_And_Destructors.dir/CXX.dd	561f9765cf332ed2
+283	290	1732538937028512930	/home/priver/Studies/Private/C++/Constructors And Destructors/cmake-build-debug/CMakeFiles/Constructors_And_Destructors.dir/CXXModules.json	561f9765cf332ed2
+283	290	1732538937028512930	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o.modmap	561f9765cf332ed2
+291	1116	1732538937036513074	CMakeFiles/Constructors_And_Destructors.dir/main.cpp.o	6e826531975db11
+1116	1224	1732538937864527991	Constructors_And_Destructors	afc27c88008e5358

@@ -1,0 +1,13 @@
+# ninja log v6
+1	173	1732724935610510694	CMakeFiles/SIMS_clone.dir/main.cpp.o.ddi	7452e08978b74516
+173	178	1732724935790520943	CMakeFiles/SIMS_clone.dir/CXX.dd	f209c7727ca727a8
+173	178	1732724935790520943	/home/priver/Studies/Private/C++/SIMS clone/cmake-build-debug/CMakeFiles/SIMS_clone.dir/CXXModules.json	f209c7727ca727a8
+173	178	1732724935790520943	CMakeFiles/SIMS_clone.dir/main.cpp.o.modmap	f209c7727ca727a8
+179	1107	1732724935790520943	CMakeFiles/SIMS_clone.dir/main.cpp.o	c793c30fd1a16cb9
+1108	1205	1732724936718573781	SIMS_clone	53d0d23faf04f89e
+3	131	1732725634989536371	CMakeFiles/SIMS_clone.dir/main.cpp.o.ddi	7452e08978b74516
+131	135	1732725635117538926	CMakeFiles/SIMS_clone.dir/CXX.dd	f209c7727ca727a8
+131	135	1732725635117538926	/home/priver/Studies/Private/C++/SIMS clone/cmake-build-debug/CMakeFiles/SIMS_clone.dir/CXXModules.json	f209c7727ca727a8
+131	135	1732725635117538926	CMakeFiles/SIMS_clone.dir/main.cpp.o.modmap	f209c7727ca727a8
+135	949	1732725635121539007	CMakeFiles/SIMS_clone.dir/main.cpp.o	c793c30fd1a16cb9
+949	1046	1732725635937555308	SIMS_clone	53d0d23faf04f89e
