@@ -1,0 +1,3 @@
+/home/priver/Studies/Private/C++/CRUD APP/cmake-build-debug/CMakeFiles/CRUD_APP.dir
+/home/priver/Studies/Private/C++/CRUD APP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/priver/Studies/Private/C++/CRUD APP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
