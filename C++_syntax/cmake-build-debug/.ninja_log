@@ -1,0 +1,7 @@
+# ninja log v6
+1	139	1733220526434735212	CMakeFiles/C___syntax.dir/main.cpp.o.ddi	6d16ca0699fc2401
+139	143	1733220526574734182	CMakeFiles/C___syntax.dir/CXX.dd	11ffd1dc8cc6e443
+139	143	1733220526574734182	/home/priver/Studies/Private/C++/C++_syntax/cmake-build-debug/CMakeFiles/C___syntax.dir/CXXModules.json	11ffd1dc8cc6e443
+139	143	1733220526574734182	CMakeFiles/C___syntax.dir/main.cpp.o.modmap	11ffd1dc8cc6e443
+144	666	1733220526574734182	CMakeFiles/C___syntax.dir/main.cpp.o	937aa47d4d6adc3
+667	767	1733220527098730325	C___syntax	4a2a568aebbd2231
