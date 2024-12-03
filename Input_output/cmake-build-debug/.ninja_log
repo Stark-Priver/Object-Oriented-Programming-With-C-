@@ -1,0 +1,7 @@
+# ninja log v6
+1	115	1733221766948665322	CMakeFiles/Input_output.dir/main.cpp.o.ddi	deac12a35e1c9a1
+115	119	1733221767064652415	CMakeFiles/Input_output.dir/CXX.dd	f1115133000da8a1
+115	119	1733221767064652415	/home/priver/Studies/Private/C++/Input_output/cmake-build-debug/CMakeFiles/Input_output.dir/CXXModules.json	f1115133000da8a1
+115	119	1733221767064652415	CMakeFiles/Input_output.dir/main.cpp.o.modmap	f1115133000da8a1
+120	654	1733221767064652415	CMakeFiles/Input_output.dir/main.cpp.o	680b102e5ad37be3
+655	748	1733221767600592836	Input_output	6fc9ffba369dd400

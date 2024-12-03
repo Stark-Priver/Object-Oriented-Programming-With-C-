@@ -1,0 +1,3 @@
+/home/priver/Studies/Private/C++/Input_output/cmake-build-debug/CMakeFiles/Input_output.dir
+/home/priver/Studies/Private/C++/Input_output/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/priver/Studies/Private/C++/Input_output/cmake-build-debug/CMakeFiles/rebuild_cache.dir
