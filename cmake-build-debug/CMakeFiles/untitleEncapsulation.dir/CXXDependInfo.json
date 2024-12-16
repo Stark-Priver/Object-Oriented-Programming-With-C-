@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/priver/Studies/untitleEncapsulation/cmake-build-debug",
+	"dir-cur-src" : "/home/priver/Studies/untitleEncapsulation",
+	"dir-top-bld" : "/home/priver/Studies/untitleEncapsulation/cmake-build-debug",
+	"dir-top-src" : "/home/priver/Studies/untitleEncapsulation",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/priver/Studies/untitleEncapsulation/cmake-build-debug/CMakeFiles/untitleEncapsulation.dir"
+}

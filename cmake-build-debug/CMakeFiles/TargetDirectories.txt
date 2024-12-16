@@ -1,0 +1,3 @@
+/home/priver/Studies/untitleEncapsulation/cmake-build-debug/CMakeFiles/untitleEncapsulation.dir
+/home/priver/Studies/untitleEncapsulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/priver/Studies/untitleEncapsulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
